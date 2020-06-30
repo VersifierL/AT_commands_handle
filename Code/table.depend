@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1569394271 source:c:\users\yy\desktop\147\table\main.c
+	"main.h"
+
+1569394332 c:\users\yy\desktop\147\table\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"instruction_processing.h"
+
+1569579379 source:c:\users\yy\desktop\147\table\instruction_processing.c
+	"main.h"
+
+1569579473 c:\users\yy\desktop\147\table\instruction_processing.h
+
+1593330275 source:c:\users\yy\desktop\at½âÎö²âÊÔ\table\instruction_processing.c
+	"instruction_processing.h"
+
+1569394332 c:\users\yy\desktop\at½âÎö²âÊÔ\table\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"instruction_processing.h"
+
+1593330163 c:\users\yy\desktop\at½âÎö²âÊÔ\table\instruction_processing.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1593326805 source:c:\users\yy\desktop\at½âÎö²âÊÔ\table\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"instruction_processing.h"
+
